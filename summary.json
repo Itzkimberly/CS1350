@@ -1,0 +1,12 @@
+{
+  "temp1": {
+    "count": 3,
+    "average": 24.0,
+    "max": 26.0
+  },
+  "temp2": {
+    "count": 2,
+    "average": 18.75,
+    "max": 19.0
+  }
+}
